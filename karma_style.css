@@ -48,6 +48,9 @@ ol, ul {
 /* Navigation Section */
 .top-navigation {
     background-color: #fff;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
 }
 .top-navigation > .content {
     margin: 0 auto;
@@ -137,6 +140,7 @@ button {
     background-color: #fff;
     overflow: hidden;
     padding-bottom: 5rem;
+    font-family: 'Roboto', sans-serif;
 }
 .cases .content {
     margin-top: 7.875rem;
