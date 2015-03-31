@@ -95,7 +95,7 @@ ol, ul {
     color: #333333;
  }
  .introduction {
- 	background-image: url(/Users/Terry/Documents/Projects_FED/Karma/Images/first-background.jpg);
+ 	background-image: url(Images/first-background.jpg);
  	background-position: center bottom;
  	background-repeat: no-repeat;
  	background-size: cover;
