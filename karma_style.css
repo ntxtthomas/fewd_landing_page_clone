@@ -167,3 +167,20 @@ button {
     font-weight: 300;
     font-size: 1.313rem;
 }
+.social {
+width:300px;
+margin: 0 auto;
+}
+.social h5 { 
+	text-align: center;
+	margin-left: -12px;
+	}
+.social ul li {
+	float: left;
+	margin-right: 10px; 
+}
+.social .icons {
+	overflow: hidden;
+	width: 80px;
+	margin: 0 auto;
+}
